@@ -10,4 +10,13 @@ Xin Jin, Chenyu Fan, Biao Wang, Yihang Bo*, Xinzhe Pan, Zihan Jia, Ya Zhuo, Runq
 
 ### Citation
 
-Please cite the ACM Multimedia paper if you use DPC-Captions in your work.
+Please cite the PRCV paper if you use MFOVD1.0 in your work:
+
+```
+@inproceedings{
+  author    = {Xin Jin, Chenyu Fan, Biao Wang, Yihang Bo*, Xinzhe Pan, Zihan Jia, Ya Zhuo, Runqi Zhang, Shuai Cui},
+  title     = {FOV Recognizer: Telling the Field of View of Movie Shots},
+  booktitle = {The 5th Chinese Conference on Pattern Recognition and Computer Vision (PRCV), Shenzhen, China, 14-17 October, 2022},
+  year      = {2022},
+}
+```
